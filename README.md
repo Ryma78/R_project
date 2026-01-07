@@ -41,3 +41,7 @@ Intégrer d'autres variables (ex: population, PIB) pour une analyse plus approfo
 Utiliser des modèles de séries temporelles pour la prédiction des émissions futures.
 Analyser les émissions par secteur économique ou par continent.
 Étudier l'impact des politiques climatiques sur les tendances d'émissions.
+
+
+
+ lien google colab : https://colab.research.google.com/drive/1sqmjvqy0CfsxAAcoEGK6B92awcWj6zef?usp=sharing
